@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "apuntes",
+  "steps": [
+    {
+      "file": "SegundoEjercicio.pas",
+      "description": "\r\nEl `:0:2` después de `num1` y `num1 * -1` es una especificación de formato que indica cómo se debe imprimir el número. En este caso, `0:2` significa que el número se debe imprimir con dos dígitos después del punto decimal.",
+      "line": 10
+    }
+  ]
+}
