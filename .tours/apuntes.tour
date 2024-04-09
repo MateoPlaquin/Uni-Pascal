@@ -6,6 +6,11 @@
       "file": "SegundoEjercicio.pas",
       "description": "\r\nEl `:0:2` después de `num1` y `num1 * -1` es una especificación de formato que indica cómo se debe imprimir el número. En este caso, `0:2` significa que el número se debe imprimir con dos dígitos después del punto decimal.",
       "line": 10
+    },
+    {
+      "file": "Ejercicios cap 1/cuartoEjercicio.pas",
+      "description": "Este fragmento de código en Pascal es un bucle `while` que se ejecuta mientras el valor de `num1` sea menor o igual a `num2`. \r\n\r\nDentro del bucle, se realiza lo siguiente:\r\n\r\n1. Se imprime el valor actual de `num1` utilizando la función `writeln`. Esta función imprime el valor y luego hace un salto de línea.\r\n\r\n2. Luego, se incrementa el valor de `num1` en 1 (`num1 := num1 + 1`). Esto es crucial para evitar un bucle infinito. Si `num1` nunca se incrementara, la condición del bucle `while` (`num1 <= num2`) siempre sería verdadera y el bucle nunca terminaría.\r\n\r\nEl bucle continúa ejecutándose, imprimiendo e incrementando `num1`, hasta que `num1` es mayor que `num2`. En ese punto, la condición del bucle `while` se vuelve falsa y el bucle termina.\r\n\r\nFinalmente, el `end.` indica el final del programa en Pascal.",
+      "line": 12
     }
   ]
 }
